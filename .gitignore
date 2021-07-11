@@ -1,0 +1,7 @@
+#игнорируем файлы в tmp - _old, _backup
+
+tmp/
+*_old
+*_backup
+/Thumbs.db
+/.DS_Store
